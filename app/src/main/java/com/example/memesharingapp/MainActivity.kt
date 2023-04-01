@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun loadMemeStandardRequest(){
         // Instantiate the RequestQueue.
-        val queue = Volley.newRequestQueue(this)
+        // val queue = Volley.newRequestQueue(this)
         val url = "https://meme-api.com/gimme"
         val imageView = findViewById<ImageView>(R.id.imageView1)
         val progressBar = findViewById<ProgressBar>(R.id.progressBar)
@@ -107,9 +107,9 @@ class MainActivity : AppCompatActivity() {
             }
         )
 
-        queue.add(jsonObjectRequest)
-// Access the RequestQueue through your singleton class.
-      // MySing1leton.getInstance(this).addToRequestQueue(jsonObjectRequest)
+        // queue.add(jsonObjectRequest)
+        // Access the RequestQueue through your singleton class.
+      MySingleton.getInstance(this).addToRequestQueue(jsonObjectRequest)
 
 
     }
