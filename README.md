@@ -35,6 +35,14 @@ Android app for sharing memes
 
 </div>
 
+## Videos
+<div align="center" style="">
+
+  <video alt="video1" style="max-width:40vw;" src="https://anirbandey1.github.io/assets/MemeSharingApp/videos/video1.mp4">
+
+</div>
+
+
 ## Getting Started
 
 ### Installation
