@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:padding="32dp"
         android:text="Share"
-        android:layout_marginLeft="2dp"
+        android:layout_marginLeft="0dp"
         android:layout_marginRight="1dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
@@ -52,7 +52,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="1dp"
-        android:layout_marginRight="2dp"
+        android:layout_marginRight="0dp"
 
         android:padding="32dp"
         android:text="Next"
