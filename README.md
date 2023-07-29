@@ -22,10 +22,35 @@
 
 </p>
 
-Written in Kotlin 
-
-Check releases section for the apk file
-
-<p>
-  <h3>Screenshots</h3>
+<p align="center">
+Android app for sharing memes
 </p>
+
+
+## Screenshots
+<div align="center" style=""> 
+
+  <img alt="screenshot1" style="max-width:40vw;" src="https://awesomedev12.github.io/assets/MemeSharingApp/screenshots/screenshot1.png">
+  <img alt="screenshot1" style="max-width:40vw;" src="https://awesomedev12.github.io/assets/MemeSharingApp/screenshots/screenshot2.png">
+
+</div>
+
+## Getting Started
+
+### Installation
+Download the apk file from the
+<a href="https://github.com/awesomeDev12/MemeSharingApp/releases/">releases section</a>
+
+
+## Author
+
+<a href = "https://awesomedev12.github.io/site" style="text-decoration: none; color: inherit;">Anirban Dey</a>
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+
+
+
+
