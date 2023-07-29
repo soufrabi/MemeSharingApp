@@ -38,7 +38,7 @@ Android app for sharing memes
 ## Videos
 <div align="center" style="">
 
-  <video alt="video1" style="max-width:40vw;" src="https://anirbandey1.github.io/assets/MemeSharingApp/videos/video1.mp4">
+  [![video1](https://anirbandey1.github.io/assets/MemeSharingApp/videos/video1.gif)](https://anirbandey1.github.io/assets/MemeSharingApp/videos/video1.mp4)
 
 </div>
 
