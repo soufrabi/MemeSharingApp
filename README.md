@@ -52,7 +52,7 @@ Download the apk file from the
 
 ## Author
 
-<a href = "https://anirbandey1.github.io/site" style="text-decoration: none; color: inherit;">Anirban Dey</a>
+<a href = "https://anirbandey.net" style="text-decoration: none; color: inherit;">Anirban Dey</a>
 
 ## License
 
