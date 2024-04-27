@@ -38,7 +38,7 @@ Android app for sharing memes
 ## Videos
 <div align="center" style="">
 
-  [![video1](https://anirbandey1.github.io/assets/MemeSharingApp/videos/video1.gif)](https://anirbandey1.github.io/assets/MemeSharingApp/videos/video1.mp4)
+  [![video1](https://soufrabi.github.io/project-assets/MemeSharingApp/video1.gif)](https://soufrabi.github.io/project-assets/MemeSharingApp/video1.mp4)
 
 </div>
 
@@ -47,12 +47,12 @@ Android app for sharing memes
 
 ### Installation
 Download the apk file from the
-<a href="https://github.com/anirbandey1/MemeSharingApp/releases/">releases section</a>
+<a href="https://github.com/soufrabi/MemeSharingApp/releases/">releases section</a>
 
 
 ## Author
 
-<a href = "https://anirbandey.net" style="text-decoration: none; color: inherit;">Anirban Dey</a>
+<a href = "https://anirbandey.profiles.soufrabi.com" style="text-decoration: none; color: inherit;">Anirban Dey</a>
 
 ## License
 
