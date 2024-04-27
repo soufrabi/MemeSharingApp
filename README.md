@@ -5,19 +5,19 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg">
   </a>
 
-  <a href="https://github.com/anirbandey1/MemeSharingApp/commits/master">
-    <img alt="GitHub commits" src="https://img.shields.io/github/commit-activity/y/anirbandey1/MemeSharingApp?color=red&label=commits">
+  <a href="https://github.com/soufrabi/MemeSharingApp/commits/master">
+    <img alt="GitHub commits" src="https://img.shields.io/github/commit-activity/y/soufrabi/MemeSharingApp?color=red&label=commits">
   </a>
 
-  <a href="https://github.com/anirbandey1/MemeSharingApp/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/anirbandey1/MemeSharingApp?color=important">
+  <a href="https://github.com/soufrabi/MemeSharingApp/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/soufrabi/MemeSharingApp?color=important">
   </a>
-  <a href="https://github.com/anirbandey1/MemeSharingApp/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anirbandey1/MemeSharingApp?color=blueviolet">
+  <a href="https://github.com/soufrabi/MemeSharingApp/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/soufrabi/MemeSharingApp?color=blueviolet">
   </a>
 
-  <a href="https://github.com/anirbandey1/MemeSharingApp/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/anirbandey1/MemeSharingApp?style=social">
+  <a href="https://github.com/soufrabi/MemeSharingApp/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/soufrabi/MemeSharingApp?style=social">
   </a>
 
 </p>
@@ -30,8 +30,8 @@ Android app for sharing memes
 ## Screenshots
 <div align="center" style=""> 
 
-  <img alt="screenshot1" style="max-width:40vw;" src="https://anirbandey1.github.io/assets/MemeSharingApp/screenshots/screenshot1.png">
-  <img alt="screenshot1" style="max-width:40vw;" src="https://anirbandey1.github.io/assets/MemeSharingApp/screenshots/screenshot2.png">
+  <img alt="screenshot1" style="max-width:40vw;" src="https://soufrabi.github.io/project-assets/MemeSharingApp/screenshots/screenshot1.png">
+  <img alt="screenshot1" style="max-width:40vw;" src="https://soufrabi.github.io/project-assets/MemeSharingApp/screenshots/screenshot2.png">
 
 </div>
 
