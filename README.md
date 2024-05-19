@@ -52,7 +52,7 @@ Download the apk file from the
 
 ## Author
 
-<a href = "https://andy.soufrabi.com" style="text-decoration: none; color: inherit;">Anirban Dey</a>
+<a href = "https://anirban.soufrabi.com" style="text-decoration: none; color: inherit;">Anirban Dey</a>
 
 ## License
 
